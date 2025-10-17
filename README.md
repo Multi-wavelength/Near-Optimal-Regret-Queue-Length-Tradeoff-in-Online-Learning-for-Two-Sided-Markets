@@ -1,6 +1,6 @@
 # Near-Optimal Regret-Queue Length Tradeoff in Online Learning for Two-Sided Markets
 
-This repository is the official implementation of [Near-Optimal Regret-Queue Length Tradeoff in Online Learning for Two-Sided Markets](xxxurl). 
+This repository is the official implementation of [Near-Optimal Regret-Queue Length Tradeoff in Online Learning for Two-Sided Markets](https://arxiv.org/abs/2510.14097). 
 
 ![model_icml.jpg](model.jpg)
 
