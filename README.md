@@ -91,12 +91,12 @@ python plotfigs_multi.py
 ## Results
 
 All the results can be found in "5 Numerical Results" in the main text of the paper
-and also in "M Details of the Simulation and Additional Numerical Results" in Appendix. 
+and also in "H Details of the Simulation and Additional Numerical Results" in Appendix. 
 
 
 ## Contributing
 
-If you'd like to contribute, you can contact us at xxx or open an issue on this GitHub repository.
+If you'd like to contribute, you can contact us at zixian@umich.edu or open an issue on this GitHub repository.
 
 All content in this repository is licensed under the MIT license.
 
